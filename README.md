@@ -3,11 +3,11 @@ Tableau dashboard analyzing NHS Scotland cancer treatment wait times (2015-2025)
 
 **Title:** [Cancer Wait Times in NHS Scotland (2015–2025): A Tableau Data Storytelling Project](https://github.com/Osiwi/NHS-SCOTLAND-CANCER-WAIT-TIMES-2015-2025-DASHBOARD/blob/main/Data_Visualisation_and_Storytelling_DataKirk_update.twb)
 
-**Tools & Technologies Used:** Tableau: Data visualization and dashboard development
-                               Microsoft Excel: Data cleaning and preprocessing
-                               OCR (Tesseract via Python): Extracted data labels for validation (optional preprocessing step)
-                               Microsoft Word: Report preparation
-                               Public Health Scotland Dataset: Cancer Waiting Times (CWT) 2015–2025
+**Tools & Technologies Used:** Tableau- Data visualization and dashboard development
+                               Microsoft Excel- Data cleaning and preprocessing
+                               OCR (Tesseract via Python)- Extracted data labels for validation (optional preprocessing step)
+                               Microsoft Word- Report preparation
+                               Public Health Scotland Dataset- Cancer Waiting Times (CWT) 2015–2025
                                
 **Project Description Overview:** This project presents a comprehensive analysis and interactive dashboard of NHS Scotland's cancer waiting times using real-world data from Public Health Scotland. By visualizing compliance with the 31-day and 62-day treatment standards, the project uncovers critical delays, geographical inequalities, cancer-type disparities, identification and visualization variations in performance across health boards and cancer types while offering actionable insights for policymakers and healthcare strategists.
 
